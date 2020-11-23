@@ -4,7 +4,7 @@ title:  "COMMUNITY for OSS Project _ 5"
 author: Brian-Hwang, leedayun, ChoHyeonSu
 categories: [ community ]	
 tags: [what, project, community]
-image: assets/images/github.jpg
+image: assets/images/github.png
 description: "Community used for our Project"	
 featured: true	
 hidden: false	
@@ -87,7 +87,7 @@ title:  "COMMUNITY for OSS Project _ 5"
 author: Brian-Hwang, leedayun, ChoHyeonSu
 categories: [ community ]	
 tags: [what, project, community]
-image: assets/images/github.jpg
+image: assets/images/github.png
 description: "Community used for our Project"	
 rating: 4.0	
 ---	
