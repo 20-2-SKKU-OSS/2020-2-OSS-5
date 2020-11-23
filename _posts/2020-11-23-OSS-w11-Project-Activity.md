@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title:  "About Project for OSS Project _ 5"
+title:  "[W11] About Project for OSS Project _ 5"
 author: Jungseoyeon
 categories: [ what ]	
 tags: [what, project, activity]
