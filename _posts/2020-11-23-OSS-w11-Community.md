@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title:  "COMMUNITY for OSS Project _ 5"	
+title:  "[W11] COMMUNITY for OSS Project _ 5"	
 author: Brian-Hwang, leedayun, ChoHyeonSu
 categories: [ community ]	
 tags: [what, project, community]
