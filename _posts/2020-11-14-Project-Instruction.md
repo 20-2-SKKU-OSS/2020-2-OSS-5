@@ -33,9 +33,8 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 Github Link: https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
 
-#### How to use?	
 
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:	
+
 
 ```html	
 ---	
