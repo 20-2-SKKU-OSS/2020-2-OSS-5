@@ -31,7 +31,7 @@ public final class PhotoEvent {
     public static PhotoEvent create(@NonNull CameraButton button) {
         return new PhotoEvent(button);
     }
-
+/*nonnull*/
     @NonNull
     public CameraButton view() {
         return button;
