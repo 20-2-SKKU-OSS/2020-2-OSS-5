@@ -20,6 +20,7 @@ import android.support.annotation.NonNull;
 
 import com.hluhovskyi.camerabutton.CameraButton;
 
+/*video staart*/
 public final class VideoStartEvent extends VideoEvent {
 
     private final CameraButton button;
