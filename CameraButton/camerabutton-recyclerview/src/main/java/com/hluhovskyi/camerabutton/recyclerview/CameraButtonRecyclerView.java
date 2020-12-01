@@ -60,7 +60,7 @@ public final class CameraButtonRecyclerView {
             View view = mManager.findViewByPosition(position);
 
             if (view == null) {
-                Log.v("Recycler", "I don't get a fuck what is going on here. Position=" + position);
+                Log.v("Recycler", "I don't get what is going on here. Position=" + position);
                 log(recyclerView, view);
                 return;
             }
