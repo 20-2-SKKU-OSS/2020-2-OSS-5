@@ -22,6 +22,7 @@ $rating-icons-paths: (
 
 /// Creates a dynamic list of values that increment each .25 from 0 to 5
 /// @return {list}
+
 @function rating-values() {
   $rating-values: ();
 
