@@ -19,6 +19,7 @@ package com.hluhovskyi.camerabutton.rxjava2;
 import android.support.annotation.NonNull;
 
 import com.hluhovskyi.camerabutton.CameraButton;
+
 import com.hluhovskyi.camerabutton.Constraints;
 
 import io.reactivex.Observable;
@@ -26,6 +27,7 @@ import io.reactivex.Observable;
 public final class RxCameraButton {
 
     private RxCameraButton() {
+        
         throw new InstantiationError();
     }
 
