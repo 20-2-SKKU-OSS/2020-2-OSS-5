@@ -19,7 +19,7 @@ package com.hluhovskyi.camerabutton.rxjava2;
 import android.support.annotation.NonNull;
 
 import com.hluhovskyi.camerabutton.CameraButton;
-
+/* video cancel event*/
 public final class VideoCancelEvent extends VideoEvent {
 
     private final CameraButton button;
