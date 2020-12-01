@@ -49,11 +49,11 @@ public abstract class BaseActivity extends AppCompatActivity {
     }
 
     private void switchFlash() {
-        Toast.makeText(this, "Imagine that flash is switched!", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Imagine that flash is switched!!", Toast.LENGTH_LONG).show();
     }
 
     private void switchCamera() {
-        Toast.makeText(this, "Imagine that camera is switched!", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Imagine that camera is switched!!", Toast.LENGTH_LONG).show();
     }
 
     public RecyclerView getModesRecycler() {
