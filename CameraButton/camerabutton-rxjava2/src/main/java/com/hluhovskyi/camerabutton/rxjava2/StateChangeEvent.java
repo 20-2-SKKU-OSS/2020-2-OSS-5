@@ -23,6 +23,7 @@ import com.hluhovskyi.camerabutton.CameraButton;
 public final class StateChangeEvent {
 
     private final CameraButton button;
+    
     private final CameraButton.State state;
 
     private StateChangeEvent(CameraButton button, CameraButton.State state) {
