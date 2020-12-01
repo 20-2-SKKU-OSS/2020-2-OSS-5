@@ -60,6 +60,7 @@ final class PhotoEventObservable extends Observable<PhotoEvent> {
         @Override
         protected void onDispose() {
             button.setOnPhotoEventListener(null);
+            
         }
     }
 }
