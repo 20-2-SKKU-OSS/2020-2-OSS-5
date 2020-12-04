@@ -2,7 +2,7 @@
 
 
 ## TEAM MEMBER
-**저희 팀은** <br>
+##### 저희 팀은 <br>
 
 **&#9989;Hwang-Jun-Yong<br>
 &#9989;I-Da-Yun<br>
@@ -11,7 +11,7 @@
 &#9989;Jung-Seo-Yeon<br>
 &#9989;Cho-Hyeon-Su<br>**
 
-**까지 총 6명으로 구성되어 있습니다.** <br>
+##### 까지 총 6명으로 구성되어 있습니다.** <br>
 
 
 
@@ -26,6 +26,7 @@
 ##### 해당 프로젝트와 관련한 정보와 주차별 회의 정보는 [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다:smile:<br>
 
 
+-------------------------------------------------------------------------------------------------------------------------------------------<br>
 ### Enhancement in project
 You can check it through CameraButton/camerabutton/src/main/java/com/hluhovvskyi/camerabutton/CameraButton.java
 - We add some explanation of main codes of this project
