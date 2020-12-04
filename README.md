@@ -1,7 +1,7 @@
 # 2020-2-OSS-5
 
 ## [TEAM MEMBER]
-**저희 팀은&#9996;** <br>
+**저희 팀은** <br>
 
 **&#9989;[Hwang-Jun-Yong]<br>
 &#9989;[I-Da-Yun]<br>
@@ -10,7 +10,7 @@
 &#9989;[Jung-Seo-Yeon]<br>
 &#9989;[Cho-Hyeon-Su]<br>**
 
-**까지 총 6명으로 구성되어 있습니다.&#9996;** <br>
+**까지 총 6명으로 구성되어 있습니다.** <br>
 
 
 # OSS-5's Project : Instagram Camera Button Commit
