@@ -76,6 +76,7 @@ import static com.hluhovskyi.camerabutton.TypedArrayHelper.getInteger;
  * less memory.
  * But {@link State} is declared as enum to allow write exhaustive expressions in Kotlin.
  */
+//class of CameraButton with interfaces
 @SuppressWarnings("unused")
 public class CameraButton extends View {
 
@@ -182,6 +183,7 @@ public class CameraButton extends View {
         int CLICK = 1;
     }
 
+    //used static variables
     public static final float DEFAULT_GRADIENT_ROTATION_MULTIPLIER = 1.75f;
     public static final float NO_ICON = -1;
 
@@ -396,6 +398,7 @@ public class CameraButton extends View {
         mProgressArcPaint.setStrokeCap(Paint.Cap.ROUND);
     }
 
+    //React at Click Event
     @Override
     public boolean performClick() {
         boolean result = super.performClick();
@@ -642,6 +645,8 @@ public class CameraButton extends View {
         }
     }
 
+
+    //Here is code for Customization in terms of color 
     /**
      * Changes colors of main circle and stroke paints according to passed flag
      *
@@ -679,6 +684,7 @@ public class CameraButton extends View {
         setMeasuredDimension(width, height);
     }
 
+    //code for Control Width and Height 
     @Override
     protected void onDraw(Canvas canvas) {
         int width = canvas.getWidth();
@@ -689,6 +695,7 @@ public class CameraButton extends View {
             validateConsistency(width, height);
         }
 
+	//Should be wider so change the divider to bigger number
         int centerX = width / 2;
         int centerY = height / 2;
         int radius = Math.min(centerX, centerY);
