@@ -3,6 +3,7 @@
 
 ## Github page for Instagram Camera Button Commit
  https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877
+* Author of this project seems to deny pull request from the others
 
 
 ### Static Page Link
