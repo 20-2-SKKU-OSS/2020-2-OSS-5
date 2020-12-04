@@ -14,3 +14,6 @@ You can check it through CameraButton/camerabutton/src/main/java/com/hluhovvskyi
 - We add some explanation of main codes of this project
 - Planning to customize in terms of color and width of button
 
+
+### Wiki page
+You can look up our project details in Wiki file
