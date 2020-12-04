@@ -14,8 +14,10 @@
  * limitations under the License.
  */
 
+//package used in this source code
 package com.hluhovskyi.camerabutton;
 
+//import for the Android application
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.ValueAnimator;
