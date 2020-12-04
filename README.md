@@ -21,10 +21,9 @@
 
 [&#9989;STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)<br>
 
-##### 해당 프로젝트와 관련한 정보와 주차별 회의 정보는 [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다.<br>
-
-***저희는 `Instagram Camera Button'이라는 주제를 프로젝트로 선정하였습니다. 이는 인스타그램 카메라 버튼에 다양한 visual한 기능을 추가할 수 있는 오픈 소스입니다.<br>
-저희 팀 5조는 이 버튼 기능에 사용자별 버튼 색 선정을 통한 Customization과 버튼 너비의 수정과 관련하여 코드 수정 후 이를 pull request하여 해당 프로젝트인 Instagram Camera Button Commit에 기여하는 것을 목표로 하고 있습니다.:smile:***
+##### 저희는 `Instagram Camera Button'이라는 주제를 프로젝트로 선정하였습니다. 이는 인스타그램 카메라 버튼에 다양한 visual한 기능을 추가할 수 있는 오픈 소스입니다.<br>
+##### 저희 팀 5조는 이 버튼 기능에 사용자별 버튼 색 선정을 통한 Customization과 버튼 너비의 수정과 관련하여 코드 수정 후 이를 pull request하여 해당 프로젝트인 Instagram Camera Button Commit에 기여하는 것을 목표로 하고 있습니다.
+##### 해당 프로젝트와 관련한 정보와 주차별 회의 정보는 [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다:smile:<br>
 
 
 ### Enhancement in project
