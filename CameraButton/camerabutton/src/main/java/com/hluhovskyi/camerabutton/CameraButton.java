@@ -753,6 +753,8 @@ public class CameraButton extends View {
      * Since algorithm has differences between values calculation of right/left icons
      * we have to pass some flag for identify icon side.
      */
+    // for width change
+    // change each divider same with the above ondraw()
     private void drawIcon(Canvas canvas, int index, float progress, boolean isLeftIcon) {
         float centerX = canvas.getWidth() / 2f;
         float centerY = canvas.getHeight() / 2f;
