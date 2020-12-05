@@ -8,7 +8,7 @@ image: assets/images/project.png
 description: "Project Description"	
 featured: true	
 hidden: false	
-rating: 4.0	
+rating: 5.0	
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
@@ -29,20 +29,3 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 회의를 통해 팀원 개인별 역할 및 활동을 정했습니다.
 프로젝트에서 팀원 개인별 역할을 크게 <개발>과 <깃헙관리> 부분으로 나누었습니다.
 각자가 관심있어하는 분야에 대해 이야기를 나누고 역할을 나누었습니다. 
-
-
-
-
-
-```html	
----	
-layout: post	
-title:  "About Project for OSS Project _ 5"
-author: Jungseoyeon
-categories: [ what ]	
-tags: [what, project, activity]
-image: assets/images/project.png
-description: "Project Description"	
-rating: 4.0	
----	
-```
