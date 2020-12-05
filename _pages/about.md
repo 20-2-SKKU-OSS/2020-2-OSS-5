@@ -9,8 +9,7 @@ comments: true
 
 <p>This website is built by Open Source Project Team in SKKU. The purpose is to record our project's process and result. Our project's topic is Instagram Camera Button.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/instagramnewcameramode.jpg" alt="jekyll template mediumish" /></p>
-
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/instagramnewcameramode.jpg" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
