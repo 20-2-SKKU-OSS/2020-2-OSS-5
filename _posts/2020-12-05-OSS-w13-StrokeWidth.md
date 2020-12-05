@@ -1,6 +1,6 @@
 ---   
 layout: post   
-title:  "[W13] Button Width"   
+title:  "[W13] Button Width Customization"   
 author: jihye0
 categories: [ code ]   
 tags: [what, project]
@@ -8,7 +8,7 @@ image: https://user-images.githubusercontent.com/73014113/101245739-40dcf300-375
 description: "Project Description"   
 featured: true   
 hidden: false
-rating: 4.5
+rating: 5
 ---   
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
