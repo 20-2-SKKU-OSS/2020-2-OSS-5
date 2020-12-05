@@ -773,8 +773,8 @@ public class CameraButton extends View {
     // for width change
     // change each divider same with the above ondraw()
     private void drawIcon(Canvas canvas, int index, float progress, boolean isLeftIcon) {
-        float centerX = canvas.getWidth() / 1f;
-        float centerY = canvas.getHeight() / 1f;
+        float centerX = canvas.getWidth() / 2f;
+        float centerY = canvas.getHeight() / 2f;
 
         float iconWidth = calculateIconWidth(progress);
         float translation = calculateTranslation(progress);
