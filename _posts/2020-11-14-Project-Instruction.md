@@ -1,7 +1,7 @@
 ---	
 layout: post	
 title:  "Instructions for OSS Project _ 5"	
-author: OSS_5
+author: Sal
 categories: [ instruction, tutorial ]	
 tags: [what, project]
 image: assets/images/Instagram_button.gif
