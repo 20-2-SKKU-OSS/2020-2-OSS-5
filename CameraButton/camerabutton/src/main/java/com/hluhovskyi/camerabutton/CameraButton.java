@@ -754,8 +754,8 @@ public class CameraButton extends View {
      * we have to pass some flag for identify icon side.
      */
     private void drawIcon(Canvas canvas, int index, float progress, boolean isLeftIcon) {
-        float centerX = canvas.getWidth() / 2f;
-        float centerY = canvas.getHeight() / 2f;
+        float centerX = canvas.getWidth() / 1f;
+        float centerY = canvas.getHeight() / 1f;
 
         float iconWidth = calculateIconWidth(progress);
         float translation = calculateTranslation(progress);
