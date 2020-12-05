@@ -38,7 +38,7 @@ comments: true
 
 [&#9989; Github Repository](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5)<br>
 
-##### 해당 소스 코드 및 개발  정보는 [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다:smile:<br>
+##### 해당 소스 코드 및 개발  정보는 [Github Repository](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다:smile:<br>
 
 
 ------------------------------------------------------------------------------------------------------------------------------<br>
