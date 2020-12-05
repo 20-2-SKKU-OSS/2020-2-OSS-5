@@ -41,18 +41,3 @@ http://www.apache.org/licenses/LICENSE-2.0
 ## Github Link: 
 https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
 
-
-
-
-```html	
----	
-layout: post	
-title:  "Instructions for OSS Project _ 5"	
-author: OSS_5
-categories: [ instruction, tutorial ]	
-tags: [what, project]	
-image: assets/images/Instagram_button2.jpg	
-description: ""Project Description"	
-rating: 4.0	
----	
-```
