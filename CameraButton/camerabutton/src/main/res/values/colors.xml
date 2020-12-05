@@ -7,7 +7,18 @@
 
     <color name="my_color_1">#000000</color>
     <color name="my_color_2">#ffffff</color>
-
+    <color name="my_color_3">#aa89bd</color>
+    <color name="my_color_4">#7ecef4</color>
+    <color name="my_color_5">#daa8d7</color>
+    <color name="my_color_6">#ffa2cc</color>
+    <color name="my_color_7">#f2e58c</color>
+    <color name="my_color_8">#0000ff</color>
+    <color name="my_color_9">#cce198</color>
+    <color name="my_color_10">#cacaca</color>
+    <color name="my_color_11">#606060</color>
+    <color name="my_color_12">#9bf6e0</color>
+	
+	
     <color name="cb_progress_arc_color_default_1">#feda75</color>
     <color name="cb_progress_arc_color_default_2">#fa7e1e</color>
     <color name="cb_progress_arc_color_default_3">#d62976</color>
@@ -17,6 +28,16 @@
     <array name="my_progress_colors">
 	    <item>@color/my_color_1</item>
 	    <item>@color/my_color_2</item>
+	    <item>@color/my_color_3</item>
+	    <item>@color/my_color_4</item>
+	    <item>@color/my_color_5</item>
+	    <item>@color/my_color_6</item>
+	    <item>@color/my_color_7</item>
+	    <item>@color/my_color_8</item>
+	    <item>@color/my_color_9</item>
+	    <item>@color/my_color_10</item>
+	    <item>@color/my_color_11</item>
+	    <item>@color/my_color_12</item>
     </array>
 
     <array name="cb_progress_arc_colors_default">
