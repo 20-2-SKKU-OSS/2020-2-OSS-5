@@ -700,6 +700,8 @@ public class CameraButton extends View {
         int centerY = height / 2;
         int radius = Math.min(centerX, centerY);
 
+	radius = radius-0.5;
+
         if (mProgressArcArea == null) {
             mProgressArcArea = new RectF();
         }
