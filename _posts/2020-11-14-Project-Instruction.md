@@ -24,7 +24,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 
 ## 라이선스:
-http://www.apache.org/licenses/LICENSE-2.0
+<http://www.apache.org/licenses/LICENSE-2.0>
 
 
 ## 최근 커밋이나 이슈: 
@@ -39,5 +39,5 @@ http://www.apache.org/licenses/LICENSE-2.0
 
 
 ## Github Link: 
-https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877 
+<https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877> 
 
