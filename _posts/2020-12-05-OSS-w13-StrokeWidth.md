@@ -28,7 +28,6 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 ![스크린샷(414)](https://user-images.githubusercontent.com/73014113/101245856-163f6a00-3753-11eb-8b52-4d0d76cb4609.png)
 
-
 >Changed
 
 ![스크린샷(413)](https://user-images.githubusercontent.com/73014113/101245922-6e766c00-3753-11eb-8abc-6c0974379545.png)
