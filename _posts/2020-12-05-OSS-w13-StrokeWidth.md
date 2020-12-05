@@ -16,12 +16,13 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 # 1단계: xml 파일
 > CameraButton/camerabutton/src/main/res/values/dimens.xml
 
-코드 분석을 통해 stroke 너비 부분은 setMainCircleRadius함수를 통해 결정됨을 알 수 있었습니다. 
+ 코드 분석을 통해 stroke 너비 부분은 setMainCircleRadius함수를 통해 결정됨을 알 수 있었습니다. 
 setMainCircleRadius 함수 내부에 있는 변수인 mMainCircleRadius를 이용해 버튼의 너비를 조절하고자 했습니다. 
 또한 setStrokeWidth 함수는 버튼에 나타나는 색의 넓이를 조절하는 함수임을 알 수 있었습니다. 
 따라서 setStrokeWidth 함수 내부의 변수인 mStrokeWidth를 분석했습니다. 
 
 [버튼을 누르기 전]
+
 
 Default value - 28dp/@dimen/cb_main_circle_radius_default
 
@@ -38,7 +39,9 @@ Default value - 12dp/@dimen/cb_stroke_width_default
  또한 width의 변수값을 12dp에서 15dp로 수정하였습니다. 
 이렇게 width 값을 증가시킨 이유는 버튼 위에 색이 나타날때 사용자 본인이 선택한 색을 잘 볼 수 있도록 하기 위해서였습니다.
 
+
 [버튼을 누른 후]
+
 
 Default value - 24dp/@dimen/cb_main_circle_radius_expanded_default
 
@@ -54,8 +57,7 @@ Default value - 24dp/@dimen/cb_main_circle_radius_expanded_default
 
 >Changed 
 
-cd_layout_width_defalut와 cd_layout_height_default값이 120dp라고 정의되어있습니다. 
-
 ![스크린샷(413)](https://user-images.githubusercontent.com/73014113/101245922-6e766c00-3753-11eb-8abc-6c0974379545.png)
 
+cd_layout_width_defalut와 cd_layout_height_default값이 120dp라고 정의되어있습니다. 
 
