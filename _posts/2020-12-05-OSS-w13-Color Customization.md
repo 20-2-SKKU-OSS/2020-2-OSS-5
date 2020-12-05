@@ -13,15 +13,24 @@ rating: 4.5
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
-#xml 파일
+# 1단계: xml 파일
 > CameraButton/camerabutton/src/main/res/values/colors.xml
 
-![스크린샷(403)](https://user-images.githubusercontent.com/65438056/101241357-a1f7cd00-3738-11eb-8f27-27ccafef6f77.png)
+>Default
+![스크린샷(411)](https://user-images.githubusercontent.com/65438056/101242769-ea19ee00-373e-11eb-8f53-11b99482759f.png)
+>Mycolor
+![스크린샷(410)](https://user-images.githubusercontent.com/65438056/101242703-77a90e00-373e-11eb-8dd3-3636b3e8236c.png)
 
-#java 파일
+>Default
+![스크린샷(414)](https://user-images.githubusercontent.com/65438056/101242831-4977fe00-373f-11eb-89e5-1a845e3386d9.png)
+>Mycolor
+![스크린샷(413)](https://user-images.githubusercontent.com/65438056/101242830-48df6780-373f-11eb-8c0c-b40ea1971a63.png)
+
+# 2단계: java 파일
 > CameraButton/camerabutton/src/main/java/com/hluhovskyi/camerabutton/CameraButton.java
  
-![스크린샷(405)](https://user-images.githubusercontent.com/65438056/101241282-edf64200-3737-11eb-877f-2e1c36c9a380.png)
+![스크린샷(409)](https://user-images.githubusercontent.com/65438056/101242314-28fb7400-373e-11eb-8061-3239b872119f.png)
+
 
 #Example
 
