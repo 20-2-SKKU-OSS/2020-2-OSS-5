@@ -4,7 +4,7 @@
 ## TEAM MEMBER
 ##### 저희 팀은 <br>
 
-**&#9989; Hwang-Jun-Yong<br>
+**&#9989; Hwang-Joon-Yong<br>
 &#9989; I-Da-Yun<br>
 &#9989; Im-Ji-Hye<br>
 &#9989; Oh-Na-Hyeon<br>
