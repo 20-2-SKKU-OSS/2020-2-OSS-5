@@ -66,7 +66,7 @@ Default value - 24dp/@dimen/cb_main_circle_radius_expanded_default
 이렇게 width 값을 수정한 이유는 버튼을 누른 후 버튼 위에 색이 나타날때 사용자 본인이 선택한 색을 잘 볼 수 있도록 하기 위해서였습니다.
 
 
-##Result
+#Result#
 >CameraButton/camerabutton/src/main/res/values/dimens.xml
 ![스크린샷(413)](https://user-images.githubusercontent.com/73014113/101245922-6e766c00-3753-11eb-8abc-6c0974379545.png)
 
