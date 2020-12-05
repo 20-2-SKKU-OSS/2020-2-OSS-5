@@ -4,7 +4,7 @@ title:  "[W11] Issue and some suggestions for OSS Project _ 5"
 author: jihye0
 categories: [ issue ]	
 tags: [how, project]
-image: assets/images/issue.jpg
+image: assets/images/socialmatic_2_mini.jpg
 description: "Project Issue, Consideration, Suggestion"	
 featured: true	
 hidden: false	
