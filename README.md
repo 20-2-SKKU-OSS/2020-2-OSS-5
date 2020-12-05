@@ -37,10 +37,12 @@
 ##### 개발 코드는 위와 같은 경로를 통해 확인하실 수 있습니다 !
 - We add some explanation of main codes of this project
 - Planning to customize in terms of color and width of button
-- Since author of this project seems to deny pull request from the others, we enhance the code in our project temporarily
+- We edit the width of button
+- We edit codes for more color choices
+- ISSUE:: Since author of this project seems to deny pull request from the others, we enhance the code in our project temporarily.
 
 
 ### Wiki page
 [&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
 
-You can look up our project details in our [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
+프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
