@@ -4,7 +4,7 @@ title:  "[W13] Color Customization"
 author: ChoHyeonSu
 categories: [ code ]	
 tags: [what, project]
-image: https://user-images.githubusercontent.com/65438056/ezgif-7-e43b2cae629a.gif
+image: assets/images/ezgif-7-e43b2cae629a.gif
 description: "Project Description"	
 featured: true	
 hidden: false	
