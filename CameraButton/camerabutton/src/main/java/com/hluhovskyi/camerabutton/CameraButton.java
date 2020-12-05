@@ -656,6 +656,14 @@ public class CameraButton extends View {
 
 
     //Here is code for Customization in terms of color 
+    /*
+     * I think this part we should make some codes for selection of color 
+     * that users will be available to choose color. 
+     * Then we change the variable mMainCircleColor which is for center circle color
+     * and change the variable mStrokeColor, color of stroke part of circle.
+     * Additionally mMainCIrcleColorPressed, mStrokeColorPressed variables are about colors when pressed.
+     *
+     */
     /**
      * Changes colors of main circle and stroke paints according to passed flag
      *
@@ -762,6 +770,8 @@ public class CameraButton extends View {
      * Since algorithm has differences between values calculation of right/left icons
      * we have to pass some flag for identify icon side.
      */
+    // for width change
+    // change each divider same with the above ondraw()
     private void drawIcon(Canvas canvas, int index, float progress, boolean isLeftIcon) {
         float centerX = canvas.getWidth() / 1f;
         float centerY = canvas.getHeight() / 1f;
