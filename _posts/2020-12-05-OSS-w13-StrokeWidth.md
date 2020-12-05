@@ -42,7 +42,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 따라서 setStrokeWidth 함수 내부의 변수인 mStrokeWidth를 분석했습니다. 
 mStrokeWidth 변수 또한 dimens.xml 안에 있는 default 값에 의해 결정된다는 것을 알 수 있었습니다.
 
->Default value - 12dp/@dimen/cb_stroke_width_default
+> Default value - 12dp/@dimen/cb_stroke_width_default
 
 
 이런 코드 분석을 거쳐 default값을 변경한다면 버튼의 지름과 너비가 변할 것이라고 생각했습니다. 
@@ -54,7 +54,7 @@ mStrokeWidth 변수 또한 dimens.xml 안에 있는 default 값에 의해 결정
 
 ---
 
-##버튼을 누른 후
+## 버튼을 누른 후
 
 
 Default value - 24dp/@dimen/cb_main_circle_radius_expanded_default
