@@ -45,4 +45,4 @@
 ### Wiki page
 [&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
 
-프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
+##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
