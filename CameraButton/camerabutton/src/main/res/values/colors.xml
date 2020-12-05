@@ -5,11 +5,19 @@
     <color name="cb_stroke_color_default">#66ffffff</color>
     <color name="cb_stroke_color_pressed_default">#4dffffff</color>
 
+    <color name="my_color_1">#000000</color>
+    <color name="my_color_2">#ffffff</color>
+
     <color name="cb_progress_arc_color_default_1">#feda75</color>
     <color name="cb_progress_arc_color_default_2">#fa7e1e</color>
     <color name="cb_progress_arc_color_default_3">#d62976</color>
     <color name="cb_progress_arc_color_default_4">#962fbf</color>
     <color name="cb_progress_arc_color_default_5">#4f5bd5</color>
+
+    <array name="my_progress_colors">
+	    <item>@color/my_color_1</item>
+	    <item>@color/my_color_2</item>
+    </array>
 
     <array name="cb_progress_arc_colors_default">
         <item>@color/cb_progress_arc_color_default_1</item>
