@@ -58,7 +58,7 @@ mStrokeWidth 변수 또한 dimens.xml 안에 있는 default 값에 의해 결정
 ![image](https://user-images.githubusercontent.com/73014113/101249529-9fa96900-3760-11eb-80af-88b516b7b211.png)
 + Default 값이 mMainCircleRadiusExpanded에 저장됨
 ![image](https://user-images.githubusercontent.com/73014113/101249576-a3d58680-3760-11eb-9c51-e608d608268b.png)
-+ Defulat 값이 mProgressArcWidth에 저장됨. 
++ Default 값이 mProgressArcWidth에 저장됨. 
 
 
 + 먼저 버튼 반지름의 크기를 24dp에서 20dp로 감소시켜 버튼의 크기를 키웠습니다. 
