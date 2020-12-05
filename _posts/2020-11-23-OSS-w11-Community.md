@@ -8,7 +8,7 @@ image: assets/images/github.png
 description: "Community used for our Project"	
 featured: true	
 hidden: false	
-rating: 4.0	
+rating: 5.0	
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
@@ -75,20 +75,3 @@ git에서 진행했던 각각의 내용들을 공유할 수 있는 공간을 제
 2.	프로젝트 진행 상황을 문서화하여 커뮤니티에 기여 및 피드백
 3.	깃허브 페이지 지속적으로 관리 → 페이지 공유를 통한 커뮤니티의 기여
 
-
-
-
-
-
-```html	
----	
-layout: post	
-title:  "COMMUNITY for OSS Project _ 5"	
-author: Brian-Hwang, leedayun, ChoHyeonSu
-categories: [ community ]	
-tags: [what, project, community]
-image: assets/images/github.png
-description: "Community used for our Project"	
-rating: 4.0	
----	
-```
