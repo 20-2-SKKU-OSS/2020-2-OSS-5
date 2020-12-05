@@ -36,7 +36,7 @@ comments: true
 
 ##### 저희는 이 버튼 기능에 사용자별 버튼 색 선정을 통한 Customization과 버튼 너비의 수정과 관련한 코드 수정 후, 이를 PR하는 방식으로 해당 프로젝트인 Instagram Camera Button Commit에 기여하는 것을 목표로 하고 있습니다.
 
-[&#9989; Github Repository](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5)<br>
+[&#9989; 2020-2-OSS-5 Github Repository](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5)<br>
 
 ##### 해당 소스 코드 및 개발  정보는 [Github Repository](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다:smile:<br>
 
