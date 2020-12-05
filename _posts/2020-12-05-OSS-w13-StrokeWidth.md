@@ -19,10 +19,14 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
  코드 분석을 통해 stroke 너비 부분은 setMainCircleRadius함수를 통해 결정됨을 알 수 있었습니다. 
  
+ 
  ![image](https://user-images.githubusercontent.com/73014113/101247123-b6e55800-375a-11eb-9f2f-7dd6392fd1db.png)
  
 setMainCircleRadius 함수 내부에 있는 변수인 mMainCircleRadius를 이용해 버튼의 너비를 조절하고자 했습니다. 
 또한 setStrokeWidth 함수는 버튼에 나타나는 색의 넓이를 조절하는 함수임을 알 수 있었습니다. 
+
+![image](https://user-images.githubusercontent.com/73014113/101247160-0035a780-375b-11eb-896b-6b67c62a676b.png)
+
 따라서 setStrokeWidth 함수 내부의 변수인 mStrokeWidth를 분석했습니다. 
 
 [버튼을 누르기 전]
