@@ -8,7 +8,7 @@ image: https://user-images.githubusercontent.com/73014113/101245739-40dcf300-375
 description: "Project Description"   
 featured: true   
 hidden: false
-rating: 5
+rating: 4.5
 ---   
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
