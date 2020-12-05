@@ -713,8 +713,8 @@ public class CameraButton extends View {
         }
 
 	//Should be wider so change the divider to bigger number
-        int centerX = width / 1;
-        int centerY = height / 1;
+        int centerX = width / 2;
+        int centerY = height / 2;
         int radius = Math.min(centerX, centerY);
 
         if (mProgressArcArea == null) {
