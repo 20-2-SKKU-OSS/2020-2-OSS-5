@@ -41,4 +41,5 @@
 
 
 ### Wiki page
+[&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
 You can look up our project details in our [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
