@@ -8,7 +8,7 @@ image: assets/images/issue.jpg
 description: "Project Issue, Consideration, Suggestion"	
 featured: true	
 hidden: false	
-rating: 4.0	
+rating: 5.0	
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
@@ -30,20 +30,3 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 > 기존의 이슈들과 더불어 튜토리얼 작성, 버튼 색 customization 과 관련된 issue를 개설하여 개발을 진행할 예정. 이 외에도 개발을 하면서 다양한 issue를 추가할 예정입니다.
 
-
-
-
-
-
-```html	
----	
-layout: post	
-title:  "Issue and some suggestions for OSS Project _ 5"	
-author: jihye0
-categories: [ issue ]	
-tags: [how, project]
-image: assets/images/issue.jpg
-description: "Project Issue, Consideration, Suggestion"	
-rating: 4.0	
----	
-```
