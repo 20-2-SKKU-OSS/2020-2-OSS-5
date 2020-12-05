@@ -16,7 +16,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 #xml 파일
 > CameraButton/camerabutton/src/main/res/values/colors.xml
 
-![스크린샷(403)](https://user-images.githubusercontent.com/65438056/101241357-a1f7cd00-3738-11eb-8f27-27ccafef6f77.pngg
+![스크린샷(403)](https://user-images.githubusercontent.com/65438056/101241357-a1f7cd00-3738-11eb-8f27-27ccafef6f77.png)
 
 #java 파일
 > CameraButton/camerabutton/src/main/java/com/hluhovskyi/camerabutton/CameraButton.java
