@@ -726,7 +726,7 @@ public class CameraButton extends View {
             mInvalidateGradient = false;
         }
 
-        float strokeCollapsedRadius = mMainCircleRadius + mStrokeWidth + 0.5;
+        float strokeCollapsedRadius = mMainCircleRadius + mStrokeWidth;
         float currentStrokeRadius = strokeCollapsedRadius - (strokeCollapsedRadius - radius) * mExpandingFactor;
         canvas.drawCircle(centerX, centerY, currentStrokeRadius, mStrokePaint);
 
