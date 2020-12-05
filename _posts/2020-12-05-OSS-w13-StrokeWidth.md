@@ -4,10 +4,10 @@ title:  "[W13] Button Width"
 author: jihye0
 categories: [ code ]   
 tags: [what, project]
-image: https://user-images.githubusercontent.com/65438056/101241067-652ad680-3736-11eb-8bfa-dda21ee2fe55.gif
+image: https://user-images.githubusercontent.com/73014113/101245739-40dcf300-3752-11eb-9412-fd500bb743a9.png
 description: "Project Description"   
 featured: true   
-hidden: false   
+hidden: false
 rating: 4.5
 ---   
 
