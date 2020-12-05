@@ -4,7 +4,7 @@ title:  "[W11] About Project for OSS Project _ 5"
 author: Jungseoyeon
 categories: [ what ]	
 tags: [what, project, activity]
-image: assets/images/project.png
+image: assets/images/Instagram-logo-bloom-759.jpg
 description: "Project Description"	
 featured: true	
 hidden: false	
