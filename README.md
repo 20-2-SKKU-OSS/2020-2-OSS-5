@@ -41,4 +41,4 @@
 
 
 ### Wiki page
-You can look up our project details in Wiki file here [STATIC PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
+You can look up our project details in our [Wiki PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
