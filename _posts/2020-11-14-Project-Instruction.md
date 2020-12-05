@@ -8,7 +8,7 @@ image: assets/images/Instagram_button.gif
 description: "Project Description"	
 featured: true	
 hidden: false	
-rating: 4.5	
+rating: 5.0
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
