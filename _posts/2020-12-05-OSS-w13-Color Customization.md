@@ -8,9 +8,18 @@ image: https://user-images.githubusercontent.com/65438056/101241067-652ad680-373
 description: "Project Description"	
 featured: true	
 hidden: false	
-rating: 5.0
+rating: 4.5
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
+#xml 파일
+> CameraButton/camerabutton/src/main/res/values/colors.xml
+
 https://user-images.githubusercontent.com/65438056/101241112-c357b980-3736-11eb-8d7e-1e5601f475b0.png
+
+#java 파일
+> CameraButton/camerabutton/src/main/java/com/hluhovskyi/camerabutton/CameraButton.java
+
+#Example
+
