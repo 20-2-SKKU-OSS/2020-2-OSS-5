@@ -315,32 +315,41 @@ public class CameraButton extends View {
                 context, array,
                 R.styleable.CameraButton_cb_progress_arc_width,
                 R.dimen.cb_progress_arc_width_default);
+	
+	 // ***** for color change *****
 
+        //change center circle color    
         mMainCircleColor = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_main_circle_color,
-                R.color.cb_main_circle_color_default);
-
+                R.color.my_color_1);
+	
+	//change center circle color when pressed
         mMainCircleColorPressed = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_main_circle_color_pressed,
-                R.color.cb_main_circle_color_pressed_default);
+                R.color.my_color_2);
 
+	//change stroke color
         mStrokeColor = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_stroke_color,
-                R.color.cb_stroke_color_default);
+                R.color.my_color_1);
 
+	//change stroke color when pressed
         mStrokeColorPressed = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_stroke_color_pressed,
-                R.color.cb_stroke_color_pressed_default);
-
+                R.color.my_color_2;
+	
+	//change arc color
         mProgressArcColors = getColors(
                 context, array,
                 R.styleable.CameraButton_cb_progress_arc_colors,
-                R.array.cb_progress_arc_colors_default);
+                R.array.my_progress_colors);
 
+	// ***** for color change *****
+	
         mExpandDuration = Constraints.checkDuration(
                 getInteger(context, array,
                         R.styleable.CameraButton_cb_expand_duration,
