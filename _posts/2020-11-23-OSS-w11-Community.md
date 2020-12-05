@@ -15,7 +15,8 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 
 
-# 선정 커뮤니티 소개 (Github Community- https://github.community/ )
+# 선정 커뮤니티 소개 
+Github Community- <https://github.community/ >
 
 ## Git
 
@@ -36,7 +37,7 @@ git에서 진행했던 각각의 내용들을 공유할 수 있는 공간을 제
 
 ## Github Community 게시글 작성 법
 
-1. https://github.community/에 접속
+1. <https://github.community/> 에 접속
 2. Converstaions 아래의 파란 글씨들이 질문의 주제를 의미함. 클릭하면 해당 주제로 이동
 3. 다른 사람들이 올린 질문을 보고 싶으면 각 질문을 클릭하면 질문과 답변의 내용을 확인 가능함
 질문을 하고 싶으면 start a topic 버튼을 클릭함
