@@ -1,34 +1,21 @@
 ---
 layout: page
-title: This is a page for Open Source Project
+title: About Brian Hwang's Static Page
 permalink: /about
 comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
-
-<p>This website is built by Open Source Project Team in SKKU. The purpose is to record our project's process and result. Our project's topic is Instagram Camera Button. </p>
 
 
+<p>This website is built by Open Source Project Team in SKKU. The purpose is to record our project's process and result. Our project's topic is Instagram Camera Button.</p>
+
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/Instagram_button.gif" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
 
 <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
-<p>Head over to our <a href="https://github.com/20-2-SKKU-OSS/2020-2-OSS-5">Github repository</a>!</p>
+<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
 
-</div>
 
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
