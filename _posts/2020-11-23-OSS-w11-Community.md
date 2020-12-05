@@ -8,7 +8,7 @@ image: assets/images/github.png
 description: "Community used for our Project"	
 featured: true	
 hidden: false	
-rating: 5.0	
+rating: 4.5	
 ---	
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
