@@ -73,11 +73,14 @@ mStrokeColorPressed, mProgressArcColors의 default 값 대신 추가한 색상�
 - 정적 페이지에 [W13] Color Customization 작성 : Color Customization 단계별 사용방법과 예시
 - 최종발표 자료준비를 맡아 프로젝트 활동 내역을 정리
 
--오나현 :
-- 개발 파트인 색 커스터마이징과 버튼 너비 조절에 해당하는 코드 파일 찾고 코드 이해 후 수정할 부분 파악해 관련 assignee 지정해 전달
+오나현 :
+- 최종 발표 준비를 위해 협업해서 마무리할 부분 정리해서 팀원들에게 전달
+- 개발 파트인 색 커스터마이징과 버튼 너비 조절에 해당하는 코드 파일 탐색 후 코드 이해
+- 개발 필요한 코드에서 각 개발 부문별로 수정할 부분 파악하여 해당 파트 assignee 지정해 전달
 - 개발 담당 파트인 색 커스터마이징 관련하여 코드(설명) 수정 후 commit
 - 색 커스터마이징 관련 개발 enhance 방향 작성하여 commit 및 Pull Request하여 assignee 설정
 - 버튼 너비 조절 개발 관련 Pull Request의 assignee로써 코드 리뷰하고 해당 브랜치 merge
 - 개발 이슈 등록하여 팀원들과 협업
 - README.md 파일 Customization
+- 최종 발표 준비 과정에서 발표자 담당
 
