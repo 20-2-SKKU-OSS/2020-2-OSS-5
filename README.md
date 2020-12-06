@@ -51,11 +51,23 @@
 #### Color Customization
 
 Color.xml에 파스텔 계열, 원색 계열, 회색 음영 계열을 추가로 삽입하여 사용자가 원하는 색깔로 Custom할 수 있도록 했습니다.
+We added some colors including pastel tone, primary tones and gray-base shades colors to "Color.xml" so that users can customize cameras based on their preferred color.
 
-색상의 이름을 my_color에서 "skyblue", "light_pink", "yellow" 등과 같이 컬러의 이름으로 지정하여 보다 직관적으로 색깔을 지정할 수 있도록 했습니다.
+색상의 이름을 my_color에서 "skyblue", "light_pink", "yellow", "blue", "light_gray" 등과 같이 컬러의 이름으로 지정하여 보다 직관적으로 색깔을 지정할 수 있도록 했습니다.
+Additionally, we changed colors' name from my_color to general color names, such as "light_purple", "skyblue", and "light_gray", which allows users to assign colors in more intuitive way.
 
-다음을 이를 적용하여 Light_purple과 Skyblue 색상을 사용하여 Customizing 한 카메라입니다.
+다음을 이를 적용하여 light_purple, Skyblue, 그리고  light_gray 색상을 사용하여 Customizing 한 카메라입니다.
+Following gif image is the result of customization using light_purple, skyblue and light_gray.
 
-[colorcustom](https://user-images.githubusercontent.com/65438056/101243247-361a6200-3742-11eb-8eff-6ed970f6cc1d.gif)
+[&#9989; Color_Custom](https://user-images.githubusercontent.com/65438056/101243247-361a6200-3742-11eb-8eff-6ed970f6cc1d.gif)
+
+
+
+
+
+
+
+
+
 
 
