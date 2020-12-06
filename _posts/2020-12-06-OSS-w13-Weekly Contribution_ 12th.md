@@ -13,7 +13,7 @@ rating: 4.5
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
-##12주차
+## 12주차
 
 이다윤 : 
 - color customization 코드 분석, 디폴트 컬러를 제외하고 다양한 프리셋을 제공하는 my_color 배열을 추가
