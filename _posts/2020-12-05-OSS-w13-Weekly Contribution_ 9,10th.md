@@ -40,15 +40,3 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 - 정적 페이지 기능 추가를 위한 파일들 Add 후 Customization
 - README.md 파일 초안 작성 및 정리
 
-##11주차
-
-이다윤 : 
-- 선정 커뮤니티인 깃헙을 소개하는 포스트 내용 작성
-- 프로젝트 역할 분배에서 개발부문에서 색 custom과 깃헙관리에서 문서화를 맡음
-
-황준용 : 
-- 팀별 회의내용 수합 후  Static Page 생성 후 추가
-- Repository 내 Wiki Page 연구
-
-임지혜 : 
--기존 프로젝트의 이슈 내용 분석
