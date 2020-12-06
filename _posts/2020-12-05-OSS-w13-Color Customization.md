@@ -71,6 +71,8 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 > #cce198 / #cacaca / #606060 / #9bf6e0 / #cce198 + #cacaca + #606060 + #9bf6e0
 
+> light_green / light_gray / drak_gray / mint / light_green + light_gray + drak_gray + mint
+
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/65438056/101243537-78dd3980-3744-11eb-81b2-4eabd2f6b563.gif)
 
 
