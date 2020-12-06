@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title:  "[W13] 11th Weekly Contribution"	
+title:  "[W13] 12th Weekly Contribution"	
 author: Leedayun
 categories: [ what ]	
 tags: [what, project, activity]
@@ -25,7 +25,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 - Repository 내 듀토리얼 페이지 연구
 
 임지혜 :
--버튼 너비 관련 코드 분석
+- 버튼 너비 관련 코드 분석
 
 정서연 :
 - commit된 코드들 확인하며 너비 관련 코드 찾아 해석
