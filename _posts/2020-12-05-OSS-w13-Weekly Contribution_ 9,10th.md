@@ -1,6 +1,6 @@
 ---	
 layout: post	
-title:  "[W13] Weekly Contribution"	
+title:  "[W13] 9,10th Weekly Contribution"	
 author: Leedayun
 categories: [ what ]	
 tags: [what, project, activity]
