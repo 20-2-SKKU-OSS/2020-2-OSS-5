@@ -12,7 +12,7 @@ rating: 4.5
 ---   
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
-##13주차
+## 13주차
 
 이다윤 :
 - my_color 배열에 파스텔 계열, 원색 계열, 회색 음영 계열을 html 컬러코드로 삽입.
