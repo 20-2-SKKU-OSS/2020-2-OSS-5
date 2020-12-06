@@ -49,7 +49,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 # 2단계: java 파일
 > CameraButton/camerabutton/src/main/java/com/hluhovskyi/camerabutton/CameraButton.java
  
-![스크린샷(409)](https://user-images.githubusercontent.com/65438056/101242314-28fb7400-373e-11eb-8061-3239b872119f.png)
+<img width="262" alt="5" src="https://user-images.githubusercontent.com/65438056/101286223-9a195500-382c-11eb-956b-41eef588adbc.png">
 
 이런 식으로 원하는 색상을 가져와서 원하는 부분에 입힙니다.
 
