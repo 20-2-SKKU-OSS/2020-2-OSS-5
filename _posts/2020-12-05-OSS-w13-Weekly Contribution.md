@@ -2,8 +2,8 @@
 layout: post	
 title:  "[W13] Weekly Contribution"	
 author: Leedayun
-categories: [ code ]	
-tags: [what, project]
+categories: [ what ]	
+tags: [what, project, activity]
 image: https://www.wrike.com/blog/content/uploads/2017/05/rawpixel-633847-unsplash.jpg
 description: "Individual Contribution by Week"	
 featured: true	
