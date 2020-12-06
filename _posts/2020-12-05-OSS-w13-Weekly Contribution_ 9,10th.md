@@ -28,7 +28,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 - 팀 정적 페이지 제작
 
 정서연 :
-- 개인과제 업로드 후 구글 미츠를 이용해 회의
+- 개인과제 업로드 후 Google Meet를 이용해 회의
 - 팀 회의를 통해 팀 정적페이지에 사용할 디자인 결정 
 - README.md에 쓰일 내용 작성 담당
 
