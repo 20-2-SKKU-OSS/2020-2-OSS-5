@@ -9,3 +9,9 @@
     <dimen name="cb_icon_size_default">28dp</dimen>
 
 </resources>
+
+/*
+
+layout_width_default는 120dp
+
+*/
