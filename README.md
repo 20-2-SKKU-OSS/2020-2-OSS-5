@@ -46,9 +46,9 @@
 ##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
 
 
-### Results of our Project
+## Results of our Project
 
-#### Color Customization
+### Color Customization
 
 ##### Color.xml에 파스텔 계열, 원색 계열, 회색 음영 계열을 추가로 삽입하여 사용자가 원하는 색깔로 Custom할 수 있도록 했습니다.
 
@@ -67,7 +67,7 @@
 [&#9989; Color_Custom](https://user-images.githubusercontent.com/65438056/101243247-361a6200-3742-11eb-8eff-6ed970f6cc1d.gif)
 
 
-
+### Stroke Width Customization
 
 
 
