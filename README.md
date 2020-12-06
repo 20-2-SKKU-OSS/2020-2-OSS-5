@@ -14,7 +14,7 @@
 ##### 까지 총 6명으로 구성되어 있습니다. <br>
 
 
-
+<br><br>
 # OSS-5's Project : Instagram Camera Button Commit
 
 [&#9989; PROJECT Github Page](https://github.com/hluhovskyi/CameraButton?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6877)
@@ -28,18 +28,22 @@
 ##### 저희는 이 버튼 기능에 사용자별 버튼 색 선정을 통한 Customization과 버튼 너비의 수정과 관련한 코드를 추가하여 이를 PR하는 방식으로 해당 프로젝트인 Instagram Camera Button Commit에 기여하는 것을 목표로 하고 있습니다.
 ###### We aim to contribute commit to Instagram Camera Button by adding user-specific Button-Color customization code and Button-Width customization code, and then Pulling Request to original project.
 
+<br>
+
 [&#9989; STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)<br>
 
 ##### 해당 프로젝트와 관련한 정보와 주차별 회의 정보는 [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다:smile:<br>
 
 ###### You can check our [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/) for more informations about the project and weekly contributions.
 
+<br>
+
 [&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
 
 ##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:wink:<br>
 ###### We also posted our detailed progress on [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
 
-
+<br>
 ## OVERVIEW of our Project Enhancement
 
 #### CameraButton/camerabutton/src/main/java/com/hluhovvskyi/camerabutton/CameraButton.java
@@ -52,7 +56,7 @@
 - As our plan, we edited the width of button and range of colors that users can customize.
 - ISSUE:: Since author of this project seems to deny pull request from the others, we enhance the code in our project temporarily.
 
-
+<br>
 ## RESULTS OF OUR PROJECT
 
 ### :point_right: Color Customization
