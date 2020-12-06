@@ -36,7 +36,7 @@
 
 [&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
 
-##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
+##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:wink:<br>
 ###### We also posted our detailed progress on [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
 
 
@@ -55,7 +55,7 @@
 
 ## RESULTS OF OUR PROJECT
 
-### Color Customization
+### :point_right: Color Customization
 
 ##### Color.xml에 파스텔 계열, 원색 계열, 회색 음영 계열을 추가로 삽입하여 사용자가 원하는 색깔로 Custom할 수 있도록 했습니다.
 
@@ -74,7 +74,7 @@
 [&#9989; Color_Custom](https://user-images.githubusercontent.com/65438056/101243247-361a6200-3742-11eb-8eff-6ed970f6cc1d.gif)
 
 
-### Stroke Width Customization
+### :point_right: Stroke Width Customization
 
 ##### 스트로크 너비 부분은 setMainCircleRadius함수를 통해, 호의 너비 부분은 setStrokeWidth함수를 통해 결정된다는 것을 확인했습니다.
 
