@@ -28,7 +28,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 >Mycolor
 
-![스크린샷(410)](https://user-images.githubusercontent.com/65438056/101242703-77a90e00-373e-11eb-8dd3-3636b3e8236c.png)
+<img width="259" alt="4" src="https://user-images.githubusercontent.com/65438056/101286218-97b6fb00-382c-11eb-94c7-08ed99ede74a.png">
 
 이런 식으로 원하는 색상 #XXXXXX을 가져와서 저장합니다. 
 
