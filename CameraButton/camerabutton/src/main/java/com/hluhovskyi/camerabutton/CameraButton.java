@@ -322,25 +322,25 @@ public class CameraButton extends View {
         mMainCircleColor = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_main_circle_color,
-                R.color.my_color_1);
+                R.color.light_purple);
 	
 	//change center circle color when pressed
         mMainCircleColorPressed = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_main_circle_color_pressed,
-                R.color.my_color_2);
+                R.color.skyblue);
 
 	//change stroke color
         mStrokeColor = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_stroke_color,
-                R.color.my_color_1);
+                R.color.light_pink);
 
 	//change stroke color when pressed
         mStrokeColorPressed = getColor(
                 context, array,
                 R.styleable.CameraButton_cb_stroke_color_pressed,
-                R.color.my_color_2;
+                R.color.light_gray;
 	
 	//change arc color
         mProgressArcColors = getColors(
