@@ -1,6 +1,6 @@
 ---   
 layout: post   
-title:  "[W13] 11th Weekly Contribution"   
+title:  "[W13] 13th Weekly Contribution"   
 author: Leedayun
 categories: [ what ]   
 tags: [what, project, activity]
@@ -10,6 +10,7 @@ featured: true
 hidden: false   
 rating: 4.5
 ---   
+OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
 ##13주차
 
