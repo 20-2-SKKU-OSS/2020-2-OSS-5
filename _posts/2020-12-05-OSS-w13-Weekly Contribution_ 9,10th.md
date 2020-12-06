@@ -13,7 +13,7 @@ rating: 4.5
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
-##9-10주차
+## 9-10주차
 
 이다윤 : 
 - 개인과제 톡방에 업로드 후 회의를 통해 주제 선정
