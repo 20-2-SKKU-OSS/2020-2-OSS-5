@@ -13,7 +13,7 @@ rating: 4.5
 
 OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jihye0
 
-##11주차
+## 11주차
 
 이다윤 : 
 - 선정 커뮤니티인 깃헙을 소개하는 포스트 내용 작성
