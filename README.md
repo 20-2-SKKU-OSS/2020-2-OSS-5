@@ -45,17 +45,23 @@
 
 <br>
 
-## OVERVIEW of our Project Enhancement
+## OVERVIEW of our Project
 
 #### CameraButton/camerabutton/src/main/java/com/hluhovvskyi/camerabutton/CameraButton.java
 
 ##### 개발 코드는 위와 같은 경로를 통해 확인하실 수 있습니다 !
 ###### You can check our Development Codes through above path.
 
+**Enhancement**
 - We added some explanation of main codes of this project
 - We planned to customize in terms of color and width of button.
 - As our plan, we edited the width of button and range of colors that users can customize.
 - ISSUE:: Since author of this project seems to deny pull request from the others, we enhance the code in our project temporarily.
+
+**Cooperation**
+- We communicates through Github, Google Meets and individual SNS for our project.
+- We have used given tools of Github such as **Issues** and **Pull request** for alarming issues to develop and assigning tasks.
+
 
 <br>
 
