@@ -19,7 +19,10 @@ layout_height_default는 120dp 로 일정하게 유지한다
 main_circle_radius_default를 24d에서 30dp로 바꾼다.
 main_circle_radius_expanded_default를 22d에서 20dp로 바꾼다.
 
-stroke_width_default를 24d에서 30dp로 바꾼다.
+stroke_width_default를 12d에서 15dp로 바꾼다.
+progress_arc_width_default를 4d에서 5dp로 바꾼다.
+
+
 
 
 
