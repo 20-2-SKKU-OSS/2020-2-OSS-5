@@ -29,6 +29,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 정서연 :
 - commit된 코드들 확인하며 너비 관련 코드 찾아 해석
+- Stroke 너비 관련 코드 연구
 
 조현수 : 
 - Color Customization 코드 분석
