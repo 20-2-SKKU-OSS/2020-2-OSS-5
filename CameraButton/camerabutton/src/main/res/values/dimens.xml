@@ -13,5 +13,6 @@
 /*
 
 layout_width_default는 120dp
+layout_height_default는 120dp 로 일정하게 유지한다
 
 */
