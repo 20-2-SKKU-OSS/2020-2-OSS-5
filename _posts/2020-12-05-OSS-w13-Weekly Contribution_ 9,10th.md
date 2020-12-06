@@ -6,7 +6,7 @@ categories: [ what ]
 tags: [what, project, activity]
 image: https://www.wrike.com/blog/content/uploads/2017/05/rawpixel-633847-unsplash.jpg
 description: "Individual Contribution by Week"	
-featured: true	
+featured: false	
 hidden: false	
 rating: 4.5
 ---	
