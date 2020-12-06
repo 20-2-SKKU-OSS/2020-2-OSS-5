@@ -50,13 +50,13 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 정서연 :
 - commit된 코드를 확인하며 코드를 분석하고 코드를 보기 쉽게 정리
 - 개발하기로 계획했던 파트에 해당하는 코드 파일 찾고 코드 이해 후 수정할 부분 파악해 commit 및 Pull Request 실행
+- 해당 파트 팀원과 의견 교환하며 코드 수정
+- stroke 너비 관련해 개발 방향 설정
+- 일부 Pull Request 메인 브랜치로 Merge 및 개발 이슈 등록
 - stroke 너비 관련 함수, 변수(radius, mMainCircleRadius) 등을 찾아 수정 및 보완
 - stroke 너비 관련 default값을 찾아 수정
 - stroke 너비 관련 default값을 변경하며 사용자가 이용하기에 가장 알맞은 크기의 값을 찾음
 - stroke 너비 중 radius default값을 24dp에서 30dp, width 값을 12dp에서 15dp 로 바꾸는 등 변수들을 수정 
-- 해당 파트 팀원과 의견 교환하며 코드 수정
-- stroke 너비 관련해 개발 방향 설정
-- 일부 Pull Request 메인 브랜치로 Merge 및 개발 이슈 등록
 - 정적 페이지에서 About.md 페이지 수정, 보완
 - 정적 페이지에서 불필요한 이미지 삭제 및 git repository 링크 연결
 
