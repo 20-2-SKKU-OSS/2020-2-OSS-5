@@ -44,6 +44,7 @@
 ###### We also posted our detailed progress on [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
 
 <br>
+
 ## OVERVIEW of our Project Enhancement
 
 #### CameraButton/camerabutton/src/main/java/com/hluhovvskyi/camerabutton/CameraButton.java
@@ -57,6 +58,7 @@
 - ISSUE:: Since author of this project seems to deny pull request from the others, we enhance the code in our project temporarily.
 
 <br>
+
 ## RESULTS OF OUR PROJECT
 
 ### :point_right: Color Customization
@@ -77,6 +79,7 @@
 
 [&#9989; Color_Custom](https://user-images.githubusercontent.com/65438056/101243247-361a6200-3742-11eb-8eff-6ed970f6cc1d.gif)
 
+<br>
 
 ### :point_right: Stroke Width Customization
 
