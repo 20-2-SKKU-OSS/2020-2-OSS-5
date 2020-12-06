@@ -44,3 +44,18 @@
 [&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
 
 ##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
+
+
+### Results of our Project
+
+#### Color Customization
+
+Color.xml에 파스텔 계열, 원색 계열, 회색 음영 계열을 추가로 삽입하여 사용자가 원하는 색깔로 Custom할 수 있도록 했습니다.
+
+색상의 이름을 my_color에서 "skyblue", "light_pink", "yellow" 등과 같이 컬러의 이름으로 지정하여 보다 직관적으로 색깔을 지정할 수 있도록 했습니다.
+
+다음을 이를 적용하여 Light_purple과 Skyblue 색상을 사용하여 Customizing 한 카메라입니다.
+
+[colorcustom](https://user-images.githubusercontent.com/65438056/101243247-361a6200-3742-11eb-8eff-6ed970f6cc1d.gif)
+
+
