@@ -29,7 +29,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 정서연 : 
 - 팀 회의 후 정적 페이지에 post할 내용 작성
 - 구글 문서를 통해 post할 내용 작성
-- post할 내용들 중 프로젝트 소개 및 활동내용을 담당
+- post할 내용들 중 프로젝트 소개 및 활동 내용을 담당해 작성
 
 조현수 :
 - 선정 커뮤니티인 깃헙을 활동하는 내용 작성
