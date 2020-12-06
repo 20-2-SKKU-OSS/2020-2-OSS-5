@@ -34,9 +34,13 @@
 
 ###### You can check our [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/) for more informations about the project and weekly contributions.
 
+[&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
+
+##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
+###### We also posted our detailed progress on [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
 
 
-## Enhancement in project
+## OVERVIEW of our Project Enhancement
 
 #### CameraButton/camerabutton/src/main/java/com/hluhovvskyi/camerabutton/CameraButton.java
 
@@ -47,13 +51,6 @@
 - We planned to customize in terms of color and width of button.
 - As our plan, we edited the width of button and range of colors that users can customize.
 - ISSUE:: Since author of this project seems to deny pull request from the others, we enhance the code in our project temporarily.
-
-
-### Wiki page
-[&#9989; WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)<br>
-
-##### 프로젝트의 진행 사항에 대한 details를 알고 싶으시다면 [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)를 참고해주세요:)
-##### We also posted our detailed progress on [WIKI PAGE](https://github.com/20-2-SKKU-OSS/2020-2-OSS-5/wiki)
 
 
 ## RESULTS OF OUR PROJECT
