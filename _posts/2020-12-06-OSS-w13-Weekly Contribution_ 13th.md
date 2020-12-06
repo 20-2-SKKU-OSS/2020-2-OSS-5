@@ -29,7 +29,7 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 - README.md 파일에 결과물 정리하여 post
 - README.md 파일에 영어 설명 추가
 - ABOUT.md 파일 업데이트
-- 최종발표 자료준비를 맡아 프로젝트 활동 내역을 정리
+- 최종발표 자료준비를 맡아 프로젝트 활동 소개, 프로젝트 활동내용, 최종 결과물 및 발전방향 정리하여 작성
 - 정적페이지 및 깃헙에서 보완이 필요한 부분 찾아 assignee 지정하여 issue 제안
 
 황준용 :
