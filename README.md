@@ -30,8 +30,6 @@
 ##### 해당 프로젝트와 관련한 정보와 주차별 회의 정보는 [STATIC PAGE](https://20-2-skku-oss.github.io/2020-2-OSS-5/)를 참고하여 주시면 감사하겠습니다:smile:<br>
 
 
-------------------------------------------------------------------------------------------------------------------------------<br>
-
 ### Enhancement in project
 #### You can check it through CameraButton/camerabutton/src/main/java/com/hluhovvskyi/camerabutton/CameraButton.java
 ##### 개발 코드는 위와 같은 경로를 통해 확인하실 수 있습니다 !
