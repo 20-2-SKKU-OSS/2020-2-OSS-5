@@ -36,3 +36,4 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 
 오나현 : 
 - 팀 회의 결과 정리 후 정적 페이지에 관련 post 업로드
+- 팀원 프로젝트 역할 분배 담당
