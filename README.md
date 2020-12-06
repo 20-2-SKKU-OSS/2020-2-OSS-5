@@ -89,15 +89,15 @@
 
 ##### 함수 내부에서 사용하는 변수들의 값은 dimens.xml 안에 저장되어 있었고, default 값으로 저장되어 있는 값들을 변경하였습니다. 
 
-###### The values of the variables used inside the function were stored within dimens.xml, and the values stored as default values were changed.
+###### The values of the variables used inside the function were stored within dimens.xml, so we changed the values stored as default.
 
 ##### 버튼 반지름의 크기를 24dp에서 30dp로 키워서 사용자가 한 눈에 알아볼 수 있고 쉽게 누를 수 있도록 하게 했습니다.
 
-###### The size of the button radius has been increased from 24 dp to 30 dp, making it recognizable and easy for users to press.
+###### We increased the size of the button radiusfrom 24 dp to 30 dp, making it recognizable and easy for users to press.
 
 ##### 호의 크기는 12dp에서 15dp로 키워서 버튼 위에 색이 나타날때 사용자 본인이 선택한 색을 잘 볼 수 있도록 하게 했습니다.
 
-###### The arc size was raised from 12dp to 15dp so that you could see the color you chose when the color appeared on the button.
+###### Plus, we raised the arc size from 12dp to 15dp so that users could see the color more clearly when the color appeared on the button.
 
 
 [&#9989; Width_Custom1](https://user-images.githubusercontent.com/65438056/101273506-5d703e00-37d9-11eb-86ca-9d6a7e6b2c97.png)  [&#9989; Width_Custom2](https://user-images.githubusercontent.com/65438056/101273507-5ea16b00-37d9-11eb-8fdc-8f15001f1a0f.png)  [&#9989; Arc_Custom](https://user-images.githubusercontent.com/65438056/101273508-5f3a0180-37d9-11eb-9822-96b125c48bc1.png)
