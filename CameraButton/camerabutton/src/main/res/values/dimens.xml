@@ -17,6 +17,8 @@ layout_height_default는 120dp 로 일정하게 유지한다
 
 사용자가 버튼을 누르기 쉽게 하기 위해 
 main_circle_radius_default를 24d에서 30dp로 바꾼다.
+main_circle_radius_expanded_default를 22d에서 20dp로 바꾼다.
+
 
 
 */
