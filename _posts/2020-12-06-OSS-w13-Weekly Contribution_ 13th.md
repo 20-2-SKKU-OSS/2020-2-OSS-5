@@ -26,7 +26,9 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 - 팀원 개인별 기여도 정리하여 문서화
 - 기존 포스트(community.md, commit 분배.md, Issue& suggeestion.md, Project Instruction.md) 보완 및 추가 작성
 - Weekly Contributuion 9주차부터 13주차까지 내용 정리하여 post
-- README.md 파일 13주차 회의록 정리하여 post
+- README.md 파일에 결과물 정리하여 post
+- README.md 파일에 영어 설명 추가
+- ABOUT.md 파일 업데이트
 - 최종발표 자료준비를 맡아 프로젝트 활동 내역을 정리
 
 황준용 :
