@@ -57,12 +57,15 @@ OSS_5 MEMBERS : Brian-Hwang, leedayun, Na-Hyeon-Oh, Jungseoyeon, ChoHyeonSu, jih
 - 순서대로 main_circle_color / main_circle_color_pressed / stroke_color / stroke_color_pressed / arc_color
 
 > #000000 / #ffffff / #aa89bd / #7ecef4 / #000000 + #ffffff + #aa89bd + #7ecef4
+
 > black / white / light_purple / skyblue / black + white + light_purple + skyblue
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/65438056/101243247-361a6200-3742-11eb-8eff-6ed970f6cc1d.gif)
 
 
 > #daa8d7 / #ffa2cc / #f2e58c / #0000ff / #daa8d7 + #ffa2cc + #f2e58c + #0000ff
+
+> light_pink / light_magenta / light_yellow / blue / light_pink + light_magenta + light_yellow + blue
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/65438056/101243447-cd33e980-3743-11eb-99a4-2c4ee8cab500.gif)
 
