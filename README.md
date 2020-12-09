@@ -53,9 +53,13 @@
 ###### You can check our Development Codes through above path.
 
 **Enhancement**
+- 프로젝트의 메인 코드에 대한 설명을 추가하였습니다.
 - We added some explanation of main codes of this project
+- 버튼 색과 너비에 대한 커스마이징을 계획하였습니다.
 - We planned to customize in terms of color and width of button.
+- 계획한대로, 버튼 색과 너비에 대한 커스터마이징을 진행하였습니다.
 - As our plan, we edited the width of button and range of colors that users can customize.
+- 해당 프로젝트에 기여하기 위한 pull request가 denied되고 있는 상황입니다.
 - ISSUE:: Since author of this project seems to deny pull request from the others, we enhance the code in our project temporarily.
 
 **Cooperation**
